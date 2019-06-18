@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Cigna Automation Script " parallel="false">
+
+    <parameter name="useCloudEnv"  value="false"/>
+    <parameter name="cloudEnvName" value="Saucelabs"/>
+
+    <parameter name="platform" value="mac"/>
+    <parameter name="url" value="https://www.cigna.com/"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browserVersion" value="74"/>
+    <parameter name="envName" value="QA"/>
+
+
+    <test name="Cigna Test">
+        <classes>
+            <class name="Health.Covarage"/>
+        </classes>
+    </test>
+</suite>

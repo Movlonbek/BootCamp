@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [CitiBank Automation Script ]">
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="envName" value="QA"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="74"/>
+  <parameter name="cloudEnvName" value="Saucelabs"/>
+  <parameter name="platform" value="mac"/>
+  <parameter name="url" value="https://online.citi.com/"/>
+  <test thread-count="5" verbose="0" name="CitiBank Test(failed)">
+    <classes>
+      <class name="Bank.LogOn">
+        <methods>
+          <include name="Registration"/>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Bank.LogOn -->
+    </classes>
+  </test> <!-- CitiBank Test(failed) -->
+</suite> <!-- Failed suite [CitiBank Automation Script ] -->
