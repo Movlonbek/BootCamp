@@ -50,8 +50,4 @@ public class SearchItems extends CommonAPI {
         AnnualRate.click();
     }
 
-
-
-
-
 }

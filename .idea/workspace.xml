@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71f67863-28eb-4dc6-a756-fca4e6db175c" name="Default Changelist" comment="" />
+    <list default="true" id="71f67863-28eb-4dc6-a756-fca4e6db175c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/regression/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facebook/src/test/java/TestHomepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/main/java/Madia/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/main/java/Madia/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/test/resources/CNNRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/test/resources/CNNRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitiBank/src/main/java/Bank/SearchItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/CitiBank/src/main/java/Bank/SearchItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -22,60 +32,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CitiBank/pom.xml">
+        <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="47" column="10" selection-start-line="13" selection-start-column="4" selection-end-line="47" selection-end-column="10" />
+            <state relative-caret-position="387">
+              <caret line="48" selection-start-line="13" selection-start-column="4" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+            <state relative-caret-position="297">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/regression/Homepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/TestHomepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/CNNRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <caret line="20" column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CitiBank/src/test/resources/CitiBankRunner.xml">
+        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/Madia/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="8" lean-forward="true" selection-end-line="20" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/target/classes/gfbgf/Login.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/target/classes/gfbgf/SearchItems.class">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="255">
+              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CitiBank/src/main/java/Bank/LogOn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="24">
               <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -105,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CitiBank/src/main/java/Bank/SearchItems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="585">
+              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1157#1158#0" expanded="true" />
@@ -123,12 +146,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/gfbgf/Login.java">
+        <entry file="file://$PROJECT_DIR$/CitiBank/target/classes/Bank/SearchItems.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+            <state>
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#446#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,6 +165,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -168,9 +193,15 @@
         <option value="$PROJECT_DIR$/Cigna/src/test/resources/CignaRunner.xml" />
         <option value="$PROJECT_DIR$/CitiBank/src/main/java/Bank/LogOn.java" />
         <option value="$PROJECT_DIR$/CitiBank/src/test/resources/CitiBankRunner.xml" />
-        <option value="$PROJECT_DIR$/CitiBank/src/main/java/Bank/SearchItems.java" />
         <option value="$PROJECT_DIR$/CNN/pom.xml" />
         <option value="$PROJECT_DIR$/CNN/src/test/resources/CNNRunner.xml" />
+        <option value="$PROJECT_DIR$/CitiBank/src/main/java/Bank/SearchItems.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/Madia/HomePage.java" />
+        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/java/regression/Homepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/TestHomepage.java" />
       </list>
     </option>
   </component>
@@ -208,6 +239,7 @@
     <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -267,9 +299,14 @@
               <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
               <item name="CitiBank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="CitiBank" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
@@ -286,39 +323,13 @@
               <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -326,11 +337,84 @@
             <path>
               <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="Madia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webBootCampAoutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webBootCampAoutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,6 +424,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -363,17 +448,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/movlonbek/IdeaProjects/webBootCampAoutomation/CitiBank/src/test/resources/CitiBankRunner.xml">
-    <configuration name="LogIn" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cigna" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Health.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Health" />
-      <option name="MAIN_CLASS_NAME" value="Health.LogIn" />
+  <component name="RunManager" selected="TestNG./Users/movlonbek/IdeaProjects/webBootCampAoutomation/Facebook/src/test/resources/FacebookRunner.xml">
+    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNN" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -381,28 +460,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Amazon/src/test/resources/AmazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+    <configuration name="TestHomepage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestHomepage" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Amazon/target/test-classes/AmazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Cigna/src/test/resources/CignaRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cigna" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cigna/src/test/resources/CignaRunner.xml" />
+    <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CNN/src/test/resources/CNNRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNN" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CNN/src/test/resources/CNNRunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -420,13 +491,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Facebook/src/test/resources/FacebookRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/movlonbek/IdeaProjects/webBootCampAoutomation/Facebook/src/test/resources/FacebookRunner.xml" />
+        <item itemvalue="TestNG.TestHomepage" />
+        <item itemvalue="TestNG./Users/movlonbek/IdeaProjects/webBootCampAoutomation/CNN/src/test/resources/CNNRunner.xml" />
+        <item itemvalue="TestNG.TestHomePage" />
         <item itemvalue="TestNG./Users/movlonbek/IdeaProjects/webBootCampAoutomation/CitiBank/src/test/resources/CitiBankRunner.xml" />
-        <item itemvalue="TestNG./Users/movlonbek/IdeaProjects/webBootCampAoutomation/Amazon/target/test-classes/AmazonRunner.xml" />
-        <item itemvalue="TestNG./Users/movlonbek/IdeaProjects/webBootCampAoutomation/Cigna/src/test/resources/CignaRunner.xml" />
-        <item itemvalue="TestNG.LogIn" />
-        <item itemvalue="TestNG./Users/movlonbek/IdeaProjects/webBootCampAoutomation/Amazon/src/test/resources/AmazonRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -444,42 +525,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Cigna_src_test_resources_CignaRunner_xml - 2019.06.18 at 15h 28m 58s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Cigna/src/test/resources/CignaRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CNN_src_test_resources_CNNRunner_xml - 2019.06.18 at 19h 51m 54s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CNN/src/test/resources/CNNRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Cigna_src_test_resources_CignaRunner_xml - 2019.06.18 at 15h 30m 45s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Cigna/src/test/resources/CignaRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CNN_src_test_resources_CNNRunner_xml - 2019.06.18 at 19h 54m 06s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CNN/src/test/resources/CNNRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Cigna_src_test_resources_CignaRunner_xml - 2019.06.18 at 15h 36m 42s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Cigna/src/test/resources/CignaRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CNN_src_test_resources_CNNRunner_xml - 2019.06.18 at 19h 59m 28s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CNN/src/test/resources/CNNRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CitiBank_src_test_resources_CitiBankRunner_xml - 2019.06.18 at 15h 53m 15s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CitiBank/src/test/resources/CitiBankRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CNN_src_test_resources_CNNRunner_xml - 2019.06.18 at 20h 00m 45s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CNN/src/test/resources/CNNRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CitiBank_src_test_resources_CitiBankRunner_xml - 2019.06.18 at 15h 59m 52s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CitiBank/src/test/resources/CitiBankRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 21h 03m 11s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CitiBank_src_test_resources_CitiBankRunner_xml - 2019.06.18 at 16h 01m 28s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CitiBank/src/test/resources/CitiBankRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestHomepage - 2019.06.18 at 21h 03m 51s.xml">
+      <configuration name="TestHomepage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CitiBank_src_test_resources_CitiBankRunner_xml - 2019.06.18 at 16h 02m 53s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CitiBank/src/test/resources/CitiBankRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 21h 08m 18s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Amazon_target_test-classes_AmazonRunner_xml - 2019.06.18 at 16h 13m 00s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Amazon/target/test-classes/AmazonRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 21h 09m 35s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CitiBank_src_test_resources_CitiBankRunner_xml - 2019.06.18 at 16h 13m 27s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CitiBank/src/test/resources/CitiBankRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 21h 10m 35s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_CitiBank_src_test_resources_CitiBankRunner_xml - 2019.06.18 at 17h 55m 54s.xml">
-      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/CitiBank/src/test/resources/CitiBankRunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_movlonbek_IdeaProjects_webBootCampAoutomation_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 21h 11m 30s.xml">
+      <configuration name="/Users/movlonbek/IdeaProjects/webBootCampAoutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,12 +568,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32880434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32880434" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32880434" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32880434" />
@@ -508,9 +588,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/resources/AmazonRunner" />
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/Homepage.java" />
@@ -691,9 +768,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CitiBank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="47" column="10" selection-start-line="13" selection-start-column="4" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CitiBank/src/test/resources/CitiBankRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CitiBank/target/classes/Bank/LogOn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <folding>
+            <element signature="e#0#1814#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CitiBank/src/main/java/Bank/LogOn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="24">
           <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -711,10 +811,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CitiBank/target/classes/Bank/SearchItems.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CitiBank/src/main/java/Bank/SearchItems.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="585">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1157#1158#0" expanded="true" />
@@ -729,31 +848,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CitiBank/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="47" column="10" selection-start-line="13" selection-start-column="4" selection-end-line="47" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        <state relative-caret-position="387">
+          <caret line="48" selection-start-line="13" selection-start-column="4" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CitiBank/src/test/resources/CitiBankRunner.xml">
+    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" lean-forward="true" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="297">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/CNNRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <caret line="20" column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/Madia/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/regression/Homepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/TestHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
